@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App3</string>
+    <string name="manufacturer_tv">Manufacturer</string>
+    <string name="model_tv">Model</string>
+    <string name="android_version_tv">Android version</string>
+    <string name="web_site_tv">Web site</string>
+    <string name="web_site_bt">Go to web site</string>
+    <string name="cancel_bt">Cancel</string>
+    <string name="save_bt">Save</string>
+    <string name="blad_manufacturer">Podaj poprawną nazwę producenta</string>
+    <string name="blad_model">Podaj prawidłową nazwę modelu</string>
+    <string name="blad_android">Podaj prawidłową nazwę wersji Android</string>
+    <string name="blad_website">Podaj prawidłową nazwę strony</string>
+    <string name="manufacturer_et">Manufacturer</string>
+    <string name="website_et">Website</string>
+    <string name="android_et">Android Version</string>
+    <string name="model_et">Model</string>
+</resources>
